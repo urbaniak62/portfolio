@@ -1,7 +1,7 @@
 body{
-  width:70%;
-
-
+  width:100%;
+  margin: 0;
+  padding: 0;
   font-family: roboto;
   background-color: #e0e0e0;
 }
@@ -20,19 +20,9 @@ h1{
   font-size: 25px;
   text-align: center;
 }
-.container{
-  display:flex;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100;
-  width: 100%;
+.box{
+  width: 70%;
 }
-.container .row{
-  margin 0 auto ;
-}
-
-
 
 
 
