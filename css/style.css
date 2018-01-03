@@ -5826,4 +5826,9 @@ button.close {
     width: 100px;
     height: 100px; }
 
+footer {
+  background-color: #8d2318; }
+  footer .container {
+    background-color: #8d2318; }
+
 /*# sourceMappingURL=style.css.map */
