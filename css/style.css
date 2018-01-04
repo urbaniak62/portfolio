@@ -5827,8 +5827,22 @@ button.close {
     height: 100px; }
 
 footer {
-  background-color: #8d2318; }
+  background-color: #8d2318;
+  margin: 30px 0px; }
   footer .container {
     background-color: #8d2318; }
+  footer .panel {
+    margin-top: 10px;
+    background-color: #8d2318;
+    border: none;
+    color: white; }
+  footer .fa {
+    font-size: 40px;
+    color: white;
+    margin-right: 10px; }
+  footer a {
+    color: white; }
+  footer a:hover {
+    color: #4e4c4c; }
 
 /*# sourceMappingURL=style.css.map */
