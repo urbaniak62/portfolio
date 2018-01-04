@@ -5825,6 +5825,9 @@ button.close {
   .boxes img {
     width: 100px;
     height: 100px; }
+  .boxes .tt {
+    height: 200px;
+    width: 200px; }
 
 footer {
   text-align: center;
