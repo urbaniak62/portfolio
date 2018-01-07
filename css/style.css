@@ -5031,7 +5031,7 @@ button.list-group-item-danger {
   line-height: 1;
   color: #000;
   text-shadow: 0 1px 0 #fff;
-  opacity: 0.2;
+  opacity: 0.8;
   filter: alpha(opacity=20); }
   .close:hover, .close:focus {
     color: #000;
