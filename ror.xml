@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		}
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://urbaniak-nicolas.com/</title>
+  <link>http://urbaniak-nicolas.com/</link>
+
+<item>
+     <link>http://urbaniak-nicolas.com/</link>
+     <title>Urbaniak Nicolas developpeur back end (laravel-debutant).</title>
+     <description>En reconversion professionnelle après une carrière dans l'Armée de Terre, je
+    suis actuellement en formation de Développeur Web Back-End chez
+    SIMPLON Roubaix. Je recherche un stage de 4 à 6 mois à partir de janvier afin
+    de monter en compétences sur les technologies web.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://urbaniak-nicolas.com/index.html</link>
+     <title>Urbaniak Nicolas developpeur back end (laravel-debutant).</title>
+     <description>En reconversion professionnelle après une carrière dans l'Armée de Terre, je
+    suis actuellement en formation de Développeur Web Back-End chez
+    SIMPLON Roubaix. Je recherche un stage de 4 à 6 mois à partir de janvier afin
+    de monter en compétences sur les technologies web.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://urbaniak-nicolas.com/html.html</link>
+     <title>Urbaniak Nicolas developpeur front end</title>
+     <description>En reconversion professionnelle après une carrière dans l'Armée de Terre, je
+    suis actuellement en formation de Développeur Web Back-End chez
+    SIMPLON Roubaix. Je recherche un stage de 4 à 6 mois à partir de janvier afin
+    de monter en compétences sur les technologies web.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://urbaniak-nicolas.com/js.html</link>
+     <title>Urbaniak nicolas developpeur Javascrip/jquery</title>
+     <description>En reconversion professionnelle après une carrière dans l'Armée de Terre, je
+    suis actuellement en formation de Développeur Web Back-End chez
+    SIMPLON Roubaix. Je recherche un stage de 4 à 6 mois à partir de janvier afin
+    de monter en compétences sur les technologies web.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://urbaniak-nicolas.com/php.html</link>
+     <title>Urbaniak Nicolas developpeur back end (laravel-debutant).</title>
+     <description>En reconversion professionnelle après une carrière dans l'Armée de Terre, je
+    suis actuellement en formation de Développeur Web Back-End chez
+    SIMPLON Roubaix. Je recherche un stage de 4 à 6 mois à partir de janvier afin
+    de monter en compétences sur les technologies web.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
