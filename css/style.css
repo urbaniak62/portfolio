@@ -5817,7 +5817,9 @@ button.close {
     border-radius: 5px; }
 
 .boxes {
-  background-color: #f9fcfc;
+  /* background-color: #f9fcfc; */
+  
+  background-size: cover;
   text-align: center;
   padding: 20px 0; }
   .boxes .fa {
@@ -5826,13 +5828,14 @@ button.close {
     width: 60px;
     height: 60px; }
   .boxes .tt {
+    margin-top: 15px;
     height: 300px;
     width: 300px; }
 
 footer {
   text-align: center;
   background-color: #8d2318;
-  margin: 10px 0px; }
+  margin: 0px 0px; }
   footer .container {
     background-color: #8d2318; }
   footer .panel {
